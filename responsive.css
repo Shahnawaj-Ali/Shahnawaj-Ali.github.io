@@ -1,0 +1,1643 @@
+/*------------------------------------------------------------------------------------*/
+/*Leptop responsive start*/
+@media only screen and (max-width: 1024px){
+	.b-icon{
+	width: 21%;
+	}
+}
+.fa-xmark{
+	display: none;
+}
+
+#contact-us{
+ display: none;
+}
+
+#ul-a{
+	width: 10%;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: gray;
+}
+
+
+#dex-a{
+	color: black;
+}
+
+
+#ul-b{
+	width: 18%;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#ul-b:hover{
+	background-color: gray;
+}
+
+
+#dex-b{
+	color: black;
+}
+
+#ul-c{
+	width: 34%;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#ul-c:hover{
+	background-color: gray;
+}
+
+
+#dex-c{
+	color: black;
+}
+
+#ul-d{
+	width: 20%;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#ul-d:hover{
+	background-color: gray;
+}
+
+
+#dex-d{
+	color: black;
+}
+
+
+
+@media only screen and (max-width: 965px){
+	.b-icon{
+	width: 25%;
+	}
+#skill-one{
+	height: 400px;
+}
+
+.fa-xmark{
+	display: none;
+}
+
+#ul-sec{
+	width: 70%;
+}
+
+
+.what-to-do{
+ padding-left:50px;
+}
+
+#p-imga{
+	background-size: 100% 100%;
+	height: 230px;
+
+}
+
+#p-imgb{
+	background-size: 100% 100%;
+height: 230px;
+}
+
+#p-imgc{
+	background-size: 100% 100%;
+		height: 230px;
+}
+
+#p-imgd{
+	background-size: 100% 100%;
+		height: 230px;
+}
+
+#p-imge{
+	background-size: 100% 100%;
+		height: 230px;
+}
+#p-imgf{
+	background-size: 100% 100%;
+		height: 230px;
+}
+#p-imgg{
+	background-size: 100% 100%;
+		height: 230px;
+}
+#p-imgh{
+	background-size: 100% 100%;
+		height: 230px;
+}
+#p-imgi{
+	background-size: 100% 100%;
+		height: 230px;}
+
+#hide-show{
+	width: 100%;
+	height:100% ;
+}
+
+#name-f{
+	font-size: 30px;
+	padding-top: 20px;
+}
+
+.c-m-n{
+	text-align: center;
+	margin-top: 5px;
+  font-size: 15px;
+}
+
+}
+
+@media only screen and (max-width: 837px){
+	.b-icon{
+	width: 27%;
+	}
+
+.fa-xmark{
+	display: none;
+}
+
+
+#skill-one{
+	height: 450px;
+}
+
+#contact-us{
+ display: none;
+}
+
+}
+
+/*Leptop responsive end*/
+/*------------------------------------------------------------------------------------*/
+/*Tab responsive start*/
+@media only screen and (min-width: 600px) and (max-width:768px ){
+   
+  #scroll-icon{
+   	display: none;
+   } 
+
+   .fa-xmark{
+	display: block;
+}
+
+
+.nav-menu{
+	width: 40%;
+	height: 250px;
+	padding: 5%;
+	position: absolute;
+	left: 30%;
+	top:100px;
+	background-color: #ccc;
+	display: flex;
+	flex-direction: column;
+	z-index: 6;
+	text-align: center;
+	display: none;
+}
+
+#home{
+	line-height: 30px;
+}
+
+
+#about{
+	line-height: 30px;
+}
+
+
+#service{
+	line-height: 30px;
+}
+
+
+#port{
+	line-height: 30px;
+}
+
+
+#co{
+	line-height: 30px;
+}
+
+
+#les{
+	line-height: 30px;
+}
+
+.btn{
+	width: 40%;
+	height:30px;
+	margin-top: 10px;
+}
+
+
+	#tab-nav{
+   display: block;
+}
+
+.main-nav{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+#m-img{
+	height: 450px;
+background-size:100% 100% ;
+}
+
+.fa-bars{
+	color: white;
+}
+
+.fa-xmark{
+	background-color: red;
+	color: white;
+	position: absolute;
+	top: 6%;
+	left: 86%;
+}
+
+.name{
+	margin-top: -50px;
+	margin-bottom: 5px;
+	font-size:30px ;
+}
+
+.skill{
+	font-size: 55px;
+	margin-bottom: 10px;
+}
+
+
+.pairagraf{
+	font-size: 15px;
+	color: white;
+	font-family: sans-serif;
+	line-height: 17px;
+}
+
+#m-img-sec{
+	height: 450px;
+  padding:40px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.logo{
+	width: 200px;
+}
+
+.btn-two{
+	width: 23%;
+	height:38px;
+	font-size: 16px;
+	margin-top: 50px;
+	border-radius: 25px;
+	margin-right: 5%;
+}
+
+	.b-icon{
+	width: 33%;
+	}
+
+
+.i-d{
+   width: 40px;
+   height: 40px;
+}
+
+
+
+.fa-brands{
+	margin-top: 12px;
+	margin-left: 10px;
+	font-size: 17px;
+	color: #3A3A3A;
+}
+
+.about-me{
+	font-size: 35px;
+}
+
+.pairagraf-sec{
+	padding-top: 20px;
+	padding-bottom:30px ;
+	font-size: 16px;
+}
+
+.btn-third{
+   width: 27%;
+   font-size: 13px;
+}
+
+.btn-sec{
+  width: 27%;
+  font-size: 13px;
+}
+
+.my-photo{
+   width: 100%;
+}
+
+.photoshop ,.elementor ,.wordpress{
+ max-width: 40px;
+ max-height: 40px;
+}
+
+.photoshop{
+margin-top: 70px;
+left: 90px;
+}
+
+.elementor{
+ margin-top: 280px;
+ left: 40px;
+}
+
+.wordpress{
+  margin-top: 210px;
+  left: 220px;
+}
+
+#icon-t{
+	font-size:40px;
+}
+
+span{
+	font-size: 50px;
+}
+
+#name{
+	font-size: 15px;
+}
+
+.man-counter{
+	width: 100%;
+	height: 200px;
+}
+
+#w-i-d{
+	font-size: 35px;
+	padding-top: 30px;
+}
+
+#paigraf-wid{
+  font-size: 15px;
+  margin-top: 23px;
+}
+
+#What-i{
+	font-size: 50px;
+}
+
+#icon-s{
+	font-size: 40px;
+}
+
+#round{
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-left: 4px;
+	width: 60px;
+	height: 60px;
+}
+
+#round-js{
+ 	margin-top: 10px;
+	padding-top: 13px;
+	padding-bottom: 10px;
+	width: 60px;
+	height: 60px;
+}
+
+#icon-js{
+  font-size: 30px;
+	padding-left: 16px;
+	margin: 0; 
+}
+
+#icon-wp{
+	 font-size: 40px;
+	padding:0;
+	margin-bottom: 5px;
+	margin-top: -1px;
+	margin-left: -2px;
+}
+
+#icon-img{
+ width: 80%;
+	margin-left:4px;
+}
+
+#icon-y{
+  	font-size: 35px;
+	margin-top: -1px;
+	margin-left: 3px;
+	margin-bottom: 7px;
+}
+
+#html{
+	margin-top: 10px;
+  font-size: 21px;
+}
+
+#pairagraf-line{
+	font-size: 12px;
+	margin-top: 5px;
+	line-height: 12px;
+}
+
+#skill-one{
+	width: 30%;
+	height: 310px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+#two-button-man-div{
+  width: 100%;
+  height: 200px;
+  margin-top: 50px;
+}
+
+#portfolio{
+	padding-bottom: 25px;
+  font-size: 30px;
+}
+
+#ul-sec{
+	width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+#p-imga{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-imgb{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-imgc{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-imgd{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-imge{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-imgf{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-imgg{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-imgh{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-imgi{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#p-img{
+	width: 33%;
+	height: 150px;
+	margin-right: 20px;
+}
+
+#hide-show{
+	width: 100%;
+	height:100% ;
+}
+
+#c-r-bg-i{
+	width: 100%;
+	height: 250px;
+}
+
+.cr-n{
+	font-size: 25px;
+	margin-top: 40px;
+}
+
+.cr-img{
+	width: 70px;
+	height: 70px;
+	margin-top: 10px;
+}
+
+.sr-p{
+	margin-top: 5px;
+	font-size: 13px;
+}
+
+.fa-star{
+	margin-top: 10px;
+}
+
+#address{
+	font-size: 16px;
+	margin-top: 0px;
+	padding-top: 10px;
+	padding-left: 10px;
+  width: 91%;
+  height: 100px;
+}
+
+#btn2{
+	width: 120px;
+	height: 35px;
+}
+
+#btn3{
+	width: 120px;
+	height: 35px;
+}
+
+#c-img{
+	width: 30%;
+	margin-right:20px ;
+	height: 250px;
+	margin-top: -20px;
+}
+
+.contact{
+	margin-top: 35px;
+	margin-bottom: -50px;
+}
+
+.c-m-n{
+	margin-top: 10px;
+  font-size: 13px;
+}
+
+#name-f{
+	padding-left: 5px;
+	font-size: 18px;
+	padding-top: 5px;
+}
+
+#paigraf-img{
+	font-size: 13px;
+	margin-top: 5px;
+	padding-left: 5px;
+}
+
+#zoom-link{
+	width: 70%;
+	margin-top: 2px;
+	padding-left: 5px;
+	display: flex;
+  justify-content: space-around;
+}
+
+#round-zoom{
+	width: 30px;
+	height: 30px;
+}
+
+#round-link{
+	width: 30px;
+	height: 30px;
+}
+
+.fa-magnifying-glass-plus{
+	font-size: 15px;
+	margin-left: 6px;
+	margin-top:8px ;
+}
+
+.fa-link{
+	font-size: 14px;
+	margin-left: 6px;
+	margin-top:8px ;
+}
+
+#contact-us{
+ display: none;
+}
+
+
+}
+/*Tab responsive end*/
+/*---------------------------------------------------------------------------------------*/
+/*2-tab responsive start*/
+@media only screen and (min-width: 425px) and (max-width: 599px){
+
+	.nav-menu{
+     display: none;
+	}
+
+/*----------------------------------------------------------------*/
+   .fa-xmark{
+	display: block;
+}
+
+.nav-menu{
+	width: 40%;
+	height: 250px;
+	padding: 5%;
+	position: absolute;
+	left: 30%;
+	top:100px;
+	background-color: #ccc;
+	display: flex;
+	flex-direction: column;
+	z-index: 6;
+	text-align: center;
+	display: none;
+}
+
+#home{
+	line-height: 30px;
+}
+
+
+#about{
+	line-height: 30px;
+}
+
+
+#service{
+	line-height: 30px;
+}
+
+
+#port{
+	line-height: 30px;
+}
+
+
+#co{
+	line-height: 30px;
+}
+
+
+#les{
+	line-height: 30px;
+}
+
+.btn{
+	width: 60%;
+	height:25px;
+	margin-top: 10px;
+}
+
+.fa-bars{
+	color: white;
+}
+
+.fa-xmark{
+	background-color: red;
+	color: white;
+	position: absolute;
+	top: 6%;
+	left: 86%;
+}
+
+/*----------------------------------------------------*/
+	 #scroll-icon{
+   	display: none;
+   }
+
+	#tab-nav{
+   display: block;
+}
+
+.my-photo{
+	margin-top: 30px;
+   width: 100%;
+}
+
+.logo{
+	width: 150px;
+}
+
+.main-nav{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.name{
+	margin-top: -100px;
+	margin-bottom: 0px;
+	font-size:25px ;
+}
+
+.skill{
+	font-size: 37px;
+	margin-bottom: 10px;
+}
+
+.pairagraf{
+	font-size: 13px;
+	line-height: 13px;
+}
+
+.btn-two{
+	width: 33%;
+	height:33px;
+	font-size: 14px;
+	margin-top: 20px;
+}
+
+.b-icon{
+	margin-top: -30px;
+	width: 40%;
+	}
+
+	.i-d{
+   width: 33px;
+   height: 33px;
+}
+
+.fa-brands{
+	margin-top: 10px;
+	margin-left: 7px;
+	font-size: 15px;
+}
+	
+#m-img{
+	height: 270px;
+background-size:100% 100% ;
+}
+
+#m-img-sec{
+	height: 270px;
+  padding:20px;
+}
+
+.about-me{
+	margin-top: 30px;
+	font-size: 25px;
+}
+
+.pairagraf-sec{
+	padding-top: 10px;
+	line-height: 13px;
+	padding-bottom:15px ;
+	font-size: 13px;
+}
+
+.photoshop ,.elementor ,.wordpress{
+ max-width: 30px;
+ max-height: 30px;
+}
+
+.photoshop{
+margin-top: 20px;
+left: 60px;
+}
+
+.elementor{
+ margin-top: 153px;
+ left: 25px;
+}
+
+.wordpress{
+  margin-top: 100px;
+  left: 150px;
+}
+
+.btn-third{
+   width: 35%;
+   height: 30px;
+   font-size: 13px;
+}
+
+.btn-sec{
+  width: 35%;
+  height: 30px;
+  font-size: 13px;
+}
+
+.sec-first{
+margin-bottom: -30px;
+}
+
+#icon-t{
+	font-size:35px;
+}
+
+span{
+	font-size: 35px;
+}
+
+#name{
+	font-size: 13px;
+}
+
+.man-counter{
+	width: 100%;
+	height: 150px;
+}
+
+.line{
+border-top: dotted 15px #2B2B2B;
+}
+
+#my-skill-man{
+   font-size: 30px;
+   padding-top: 20px;
+}
+
+#w-i-d{
+	font-size: 25px;
+	padding-top: 20px;
+}
+
+#paigraf-wid{
+  font-size: 13px;
+  margin-top: 18px;
+}
+
+#What-i{
+	font-size: 40px;
+}
+
+.what-to-do{
+	margin-top: -70px;
+	margin-bottom: -50px;
+ padding-left:20px;
+}
+
+#round{
+	margin-top: 10px;
+	padding-top: 7px;
+	padding-left: 3px;
+	width: 45px;
+	height: 45px;
+}
+
+#round-js{
+ 	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 45px;
+	height: 45px;
+}
+
+#icon-s{
+	font-size: 30px;
+}
+
+#icon-js{
+  font-size: 20px;
+	padding-left: 13px;
+	margin: 0; 
+}
+
+#html{
+	margin-top: 5px;
+  font-size: 17px;
+}
+
+#pairagraf-line{
+	font-size: 10px;
+	margin-top: 1px;
+	line-height: 9px;
+	text-decoration: justify-content;
+}
+
+#skill-one{
+	width: 40%;
+	height: 230px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+}
+
+#icon-wp{
+	 font-size: 30px;
+	 margin-top: -1px;
+	margin-left: -1px;
+}
+
+
+#icon-img{
+ width: 80%;
+ margin-top: -1px;
+	margin-left:3px;
+}
+
+#icon-y{
+  	font-size: 25px;
+	margin-top: 1px;
+	margin-left: 3px;
+	margin-bottom: 7px;
+}
+
+.skill-l{
+  margin-bottom: -40px;
+}
+
+#two-button-man-div{
+  width: 100%;
+  height: 150px;
+  background-size: cover;
+  margin-top: 50px;
+}
+
+#btn-hm{
+  width:80px;
+  height: 30px;
+}
+
+#btn-dc{
+  width:100px;
+  height: 29px;
+}
+
+#mane-portfolio{
+  display: none;
+}
+
+.cr-n{
+	font-size: 23px;
+	margin-top: 20px;
+}
+
+.cr-img{
+	width: 70px;
+	height: 70px;
+	margin-top: 10px;
+}
+
+.sr-p{
+	margin-top: 5px;
+	font-size: 13px;
+}
+
+.fa-star{
+	margin-top: 10px;
+}
+
+#address{
+	font-size: 16px;
+	margin-top: 0px;
+	padding-top: 10px;
+	padding-left: 10px;
+  width: 91%;
+  height: 100px;
+}
+
+#c-r-bg-i{
+	width: 100%;
+	height: 220px;
+}
+
+.c-n{
+	margin-top: 5px;
+	font-size: 15px;
+}
+
+.fa-phone-volume , .fa-envelope,.fa-location-arrow{
+	margin-top: 10px;
+	font-size: 40px;
+}
+
+.call ,.email ,.location{
+	width: 30%;
+	height: 110px;
+	padding: 5px;
+}
+
+.c-m-n{
+	margin-top: 2px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+#c-img{
+	width: 30%;
+	margin-right:20px ;
+	height: 150px;
+	margin-top: -20px;
+}
+
+.name-text,.email-text{
+	width: 44%;
+	height: 29px;
+	padding-left: 5px;
+	font-size: 14px;
+}
+
+.name-text{
+ margin-right: 8px;
+}
+
+#address{
+	font-size: 14px;
+	margin-top: -10px;
+	padding-left: 10px;
+  width: 93%;
+  height: 60px;
+  margin-bottom: -10px;
+}
+
+#btn2{
+	width: 80px;
+	height: 30px;
+	margin-right: -0px;
+}
+
+#btn3{
+	width: 80px;
+	height: 29px;
+	border: none;
+}
+
+.contact{
+	margin-top: 30px;
+  margin-bottom: -100px;
+	box-sizing: border-box;
+}
+
+footer{
+	width: 100%;
+	height: 100px;
+}
+
+#contact-us{
+ display: none;
+}
+
+}
+/*tab responsive end*/
+/*----------------------------------------------------------------------------------------*/
+/*mobile responsive start*/
+@media only screen and (min-width: 250px) and (max-width: 424px){
+
+	.nav-menu{
+     display: none;
+	}
+
+	/*-------------------------------------------------------------------------*/
+
+
+   .fa-xmark{
+	display: block;
+}
+
+.nav-menu{
+	width: 60%;
+	height: 250px;
+	padding: 5%;
+	position: absolute;
+	left: 30%;
+	top:50px;
+	background-color: #ccc;
+	display: flex;
+	flex-direction: column;
+	z-index: 6;
+	text-align: center;
+	display: none;
+}
+
+#home{
+	line-height: 30px;
+}
+
+
+#about{
+	line-height: 30px;
+}
+
+
+#service{
+	line-height: 30px;
+}
+
+
+#port{
+	line-height: 30px;
+}
+
+
+#co{
+	line-height: 30px;
+}
+
+
+#les{
+	line-height: 30px;
+}
+
+.btn{
+	width: 60%;
+	height:25px;
+	margin-top: 10px;
+}
+
+.fa-bars{
+	color: white;
+}
+
+.fa-xmark{
+	background-color: red;
+	color: white;
+	position: absolute;
+	top: 6%;
+	left: 86%;
+}
+
+
+
+
+	/*-------------------------------------------------------------------------*/
+
+	 #scroll-icon{
+   	display: none;
+   }
+
+	#tab-nav{
+   display: block;
+}
+
+.my-photo{
+	margin-top: 30px;
+   width: 100%;
+}
+
+.logo{
+	width: 120px;
+}
+
+.main-nav{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.name{
+	margin-top: -110px;
+	margin-bottom: 0px;
+	font-size:20px ;
+}
+
+.skill{
+	font-size: 26px;
+	margin-bottom: 1px;
+}
+
+.pairagraf{
+	font-size: 12px;
+	word-spacing: -1px;
+	line-height: 12px;
+}
+
+.btn-two{
+	width: 40%;
+	height:25px;
+	font-size: 12px;
+	margin-top: 7px;
+}
+
+.b-icon{
+	margin-top: -44px;
+	width: 60%;
+	}
+
+	.i-d{
+   width: 27px;
+   height: 27px;
+}
+
+.fa-brands{
+	margin-top: 8px;
+	margin-left: 5px;
+	font-size: 13px;
+}
+#m-img{
+	height: 190px;
+background-size:100% 100% ;
+}
+
+#m-img-sec{
+	height: 190px;
+  padding:10px;
+}
+
+.b-t-n{
+  display: flex;
+  justify-content: center;
+}
+
+.about-me{
+	text-align: center;
+	margin-top: -40px;
+	font-size: 20px;
+}
+
+.pairagraf-sec{
+	padding-top: 0px;
+	text-align: center;
+	line-height: 13px;
+	word-spacing: -1px;
+	padding-bottom:15px ;
+	font-size: 15px;
+}
+
+.photoshop ,.elementor ,.wordpress{
+ max-width: 30px;
+ max-height: 30px;
+}
+
+.photoshop{
+margin-top: 40px;
+left: 70px;
+}
+
+.elementor{
+ margin-top: 190px;
+ left: 38px;
+}
+
+.wordpress{
+  margin-top: 130px;
+  left: 170px;
+}
+
+.btn-third{
+   width: 40%;
+   height: 24px;
+   font-size: 11px;
+}
+
+.btn-sec{
+  width: 40%;
+  height: 24px;
+  font-size: 11px;
+}
+
+.sec-first{
+display: flex;
+flex-direction: column;
+}
+
+#a-b-m{
+  padding: 10px;
+}
+
+#icon-t{
+	font-size:32px;
+}
+
+span{
+	font-size: 35px;
+}
+
+#name{
+	font-size: 10px;
+}
+
+.man-counter{
+	width: 100%;
+	height: 120px;
+}
+
+.line{
+border-top: dotted 15px #2B2B2B;
+}
+
+#my-skill-man{
+   font-size: 30px;
+   padding-top: 20px;
+}
+
+#w-i-d{
+	font-size: 25px;
+	padding-top: 20px;
+}
+
+#paigraf-wid{
+  font-size: 13px;
+  margin-top: 18px;
+}
+
+#What-i{
+	font-size: 40px;
+}
+
+.what-to-do{
+	display: none;
+}
+
+#round{
+	margin-top: 10px;
+	padding-top: 7px;
+	padding-left: 3px;
+	width: 45px;
+	height: 45px;
+}
+
+#round-js{
+ 	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 45px;
+	height: 45px;
+}
+
+#icon-s{
+	font-size: 30px;
+}
+
+#icon-js{
+  font-size: 20px;
+	padding-left: 13px;
+	margin: 0; 
+}
+
+#html{
+	margin-top: 5px;
+  font-size: 17px;
+}
+
+#pairagraf-line{
+	font-size: 13px;
+	margin-top: 1px;
+	line-height: 12px;
+	text-decoration: justify-content;
+}
+
+#skill-one{
+	width: 100%;
+	height: 200px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+}
+
+#icon-wp{
+	 font-size: 30px;
+	 margin-top: -1px;
+	margin-left: -1px;
+}
+
+
+#icon-img{
+ width: 80%;
+ margin-top: -1px;
+	margin-left:3px;
+}
+
+#icon-y{
+  	font-size: 25px;
+	margin-top: 1px;
+	margin-left: 3px;
+	margin-bottom: 7px;
+}
+
+.skill-l{
+	display: flex;
+	flex-direction: column;
+  margin-bottom: -40px;
+}
+
+#two-button-man-div{
+  width: 100%;
+  height: 100px;
+  background-size: cover;
+  margin-top: 50px;
+}
+
+#btn-hm{
+  width:80px;
+  height: 30px;
+}
+
+#btn-dc{
+  width:100px;
+  height: 29px;
+}
+
+#mane-portfolio{
+  display: none;
+}
+
+.cr-n{
+	font-size: 23px;
+	margin-top: 20px;
+}
+
+.cr-img{
+	width: 70px;
+	height: 70px;
+	margin-top: 10px;
+}
+
+.sr-p{
+	text-align: center;
+	margin-top: 5px;
+	font-size: 13px;
+}
+
+.fa-star{
+	margin-top: 10px;
+}
+
+#address{
+	font-size: 16px;
+	margin-top: 0px;
+	padding-top: 10px;
+	padding-left: 10px;
+  width: 91%;
+  height: 100px;
+}
+
+#c-r-bg-i{
+	width: 100%;
+	height: 220px;
+}
+
+.c-n{
+	margin-top: 5px;
+	font-size: 15px;
+}
+
+.fa-phone-volume , .fa-envelope,.fa-location-arrow{
+	margin-top: 10px;
+	font-size: 40px;
+}
+
+.call ,.email ,.location{
+	width: 100%;
+	height: 110px;
+	padding: 5px;
+}
+
+.c-m-n{
+	margin-top: 2px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+#c-img{
+display: none;
+}
+
+.name-text,.email-text{
+	width: 100%;
+	height: 29px;
+	font-size: 14px;
+}
+
+.name-text{
+ margin-bottom: 10px;
+}
+
+#address{
+	font-size: 14px;
+	margin-top: -10px;
+	padding-left: 10px;
+  width: 100%;
+  height: 60px;
+  margin-bottom: -10px;
+}
+
+#btn2{
+	width: 80px;
+	height: 30px;
+	margin-right: -0px;
+}
+
+#btn3{
+	width: 80px;
+	height: 29px;
+	border: none;
+}
+
+.contact{
+	margin-top: 30px;
+  margin-bottom: -50px;
+	box-sizing: border-box;
+}
+
+footer{
+	width: 100%;
+	height: 60px;
+}
+.my-skill{
+	padding: 10px;
+flex-direction: column;
+}
+
+.prefact{
+	 width:100%;
+}
+
+.bacic{
+	width: 100%;
+}
+.progress{
+	width: 100%;
+	height: 12px;
+}
+
+#color-h{
+	height: 12px;
+}
+
+#color-c{
+	height: 12px;
+}
+
+#color-j{
+	height: 12px;
+}
+
+#color-w{
+	height: 12px;
+}
+
+#color-ca{
+	height: 12px;
+}
+
+#color-s{
+	height: 12px;
+}
+
+.head-three{
+	font-size: 15px;
+}
+
+#slill-mane{
+  margin-top:-50px;
+}
+
+.call-email-location{
+	margin-top: 50px;
+	padding-left: 5%;
+	padding-right: 5%;
+	display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
+#contact-us{
+	color: #2B2B2B;
+  text-align: center;
+  font-size: 23px;
+  margin-top: 25px;
+  margin-bottom: -40px;
+  font-family: sans-serif;
+}
+
+form{
+	padding: 20px;
+	width: 100%;
+	height: 300px;
+}
+
+#digine{
+	font-size: 17px;
+}
+
+}
+/*mobile responsive end*/
