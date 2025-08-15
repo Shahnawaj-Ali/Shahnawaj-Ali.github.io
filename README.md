@@ -7,6 +7,6 @@ A personal portfolio showcasing my web development projects using HTML, CSS, Jav
 <h3>Mobile responsive</h3>
 <img width="20%" height="100%" alt="Image" src="https://github.com/user-attachments/assets/85055caf-239d-4fa2-bbf7-c1f50ee5d540" />
 
-
+   
 
 
